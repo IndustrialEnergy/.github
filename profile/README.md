@@ -30,6 +30,12 @@ https://www.energy.gov/industrial-technologies/doe-industrial-decarbonization-ro
 ## Repositories:
 
 This project contains two repositories- BLANK and BLANK. 
+- REPO 1 and description
+- REPO 2 and description
+
+## Key Datasets:
+- IAC...
+- others...
 
 ## Acknowledgements:
 
