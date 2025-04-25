@@ -1,8 +1,8 @@
 ## Industrial Energy Data Exploration Interface
 
-### Team Members/Graduate Students: Oksana Protsukha, Naomi Moraes, Eva Newby, Yos Ramirez. 
+#### Team Members/Graduate Students: Oksana Protsukha, Naomi Moraes, Eva Newby, Yos Ramirez. 
 
-### Client and Advisor: [Dr. Eric Masanet](https://bren.ucsb.edu/people/eric-masanet), the Industrial Sustainability Analysis Laboratory.
+#### Client and Advisor: [Dr. Eric Masanet](https://bren.ucsb.edu/people/eric-masanet), the Industrial Sustainability Analysis Laboratory.
 
 [Project Summary on the Bren Website](https://bren.ucsb.edu/projects/industrial-energy-data-exploration-interface)
 
