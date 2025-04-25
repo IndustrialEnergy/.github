@@ -25,3 +25,33 @@ The industrial sector is a major contributor to greenhouse gas (GHG) emissions i
 ```
 [1] Energy.gov. “DOE Industrial Decarbonization Roadmap.” Accessed September 23, 2024.
 https://www.energy.gov/industrial-technologies/doe-industrial-decarbonization-roadmap.
+
+Repositories:
+This project contains two repositories- BLANK and BLANK. 
+
+Acknowledgements:
+People:
+Faculty Advisor & Client
+Dr. Eric  Masanet
+The Bren School of Environmental Science & Management, U.S. Department of Energy
+
+Capstone Advisor
+Dr. Carmen Galaz Garcia
+The Bren School of Environmental Science & Management 
+
+Testing, Research & Development
+Aiden O’Neil
+The Bren School of Environmental Science & Management 
+
+Dylan Radovic
+The Bren School of Environmental Science & Management 
+
+Project Data Resources: 
+U.S. Department of Energy
+Industrial Assessment Center
+
+U.S. Environmental Protection Agency
+
+U.S. Department of Labour
+Bureau of Labor Statistics
+
