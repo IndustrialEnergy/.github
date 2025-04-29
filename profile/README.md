@@ -5,7 +5,7 @@
 
 #### Client and Advisor: [Dr. Eric Masanet](https://bren.ucsb.edu/people/eric-masanet), the Industrial Sustainability Analysis Laboratory.
 
-[Project Summary on the Bren Website](https://bren.ucsb.edu/projects/industrial-energy-data-exploration-interface)
+Here is a full [project summary available on the Bren Website](https://bren.ucsb.edu/projects/industrial-energy-data-exploration-interface).
 
 This is a capstone project for the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at [Bren School of Environmental Science and Management](https://bren.ucsb.edu/), University of California, Santa Barbara.
 
