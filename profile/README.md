@@ -28,14 +28,19 @@ The industrial sector is a major contributor to greenhouse gas (GHG) emissions i
 https://www.energy.gov/industrial-technologies/doe-industrial-decarbonization-roadmap.
 
 ## Repositories:
-
-This project contains two repositories- BLANK and BLANK. 
-- REPO 1 and description
-- REPO 2 and description
+This project contains 2 repositories - 'dataintegration' and 'dashboard'.
+- 'dataintegration' contains all the code required to clean, normalize, and integrate the datasets, and created an integrated dataset as the output. 
+- 'dashboard' contains all the code necessary to create and deploy our interactive web application. 
 
 ## Key Datasets:
-- IAC...
-- others...
+- Industrial Assessment Centers (IAC) data.
+- Producer Price Intex (PPI) from the U.S Bureau of Labor Statistics.
+- Combustion Emission Factors by Fuel Type from the U.S Environmental Protection Agency (EPA).
+- Electricity Emissions by State and Year from the Energy Information Administration (EIA).
+- Electricity Generation by State and Year from the Energy Information Administration (EIA).
+
+## Data Produced:
+- The scripts in the 'dataintegration' creates a cleaned, integrated dataset that is then used in the dashboard. Running the 'dashboard' code without running the 'dataintegration' code will not produce the correct output. 
 
 ## Acknowledgements:
 
