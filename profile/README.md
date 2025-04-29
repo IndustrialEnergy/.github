@@ -1,6 +1,5 @@
 # Industrial Energy Data Exploration Interface
-![image](https://github.com/user-attachments/assets/335c2ad1-c66e-4c2a-a54c-aa89ef4694ab)
-source: shutterstock.com 
+![Industrial Energy-](https://github.com/user-attachments/assets/f9e7616f-1b22-4c98-bf54-0747004b5be6)
 
 #### Team Members/Graduate Students: Oksana Protsukha, Naomi Moraes, Eva Newby, Yos Ramirez. 
 
