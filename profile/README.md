@@ -1,4 +1,4 @@
-# Industrial Energy Data Exploration Interface
+# Industrial Energy Efficiency Data Interface
 ![Industrial Energy-400](https://github.com/user-attachments/assets/3e2a4cc3-8c4a-429f-af01-3ae98fd13c5e)
 
 #### Team Members/Graduate Students: Oksana Protsukha, Naomi Moraes, Eva Newby, Yos Ramirez. 
