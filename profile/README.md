@@ -1,4 +1,5 @@
-## Industrial Energy Efficiency Data Explorer: A Data-Driven Support Tool for Industrial Energy Modelers
+## Industrial Energy Efficiency Data Explorer: 
+A Data-Driven Support Tool for Industrial Energy Modelers
 
 ```
 ) ) )                ) ) )                ) ) )
